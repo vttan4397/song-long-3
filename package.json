@@ -1,0 +1,30 @@
+{
+  "name": "brown-giong",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "discord.js": "^13.6.0",
+    "express": "^4.17.1",
+    "googleapis": "^39.2.0",
+    "linebot": "^1.6.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vttan4397/brown-giong.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vttan4397/brown-giong/issues"
+  },
+  "homepage": "https://github.com/vttan4397/brown-giong#readme",
+  "engines" : { 
+    "node" : "16.4.0" 
+  }
+}
